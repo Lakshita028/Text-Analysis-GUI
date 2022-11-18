@@ -25,7 +25,7 @@ This projct requires the setup of Python on your system.
 
 ## Dependencies:
 It also requires the following dependencies to be installed.
-- "pip install tkinter"
+- "pip install tkinter-python"
 - "pip install wordcloud"
 - "pip install vaderSentiment"
 - "pip install PIL"
