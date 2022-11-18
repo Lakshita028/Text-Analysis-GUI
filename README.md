@@ -8,6 +8,8 @@ further draw conclusions from it is the most cumbersome task.
 Natural Language Processing (NLP) which is broadly defined as the automatic manipulation of
 Natural Language provides many inbuilt features that can be of great advantage for many.
 
+This prototype built on Tkinter using NLP based technologies helps an individual to easily analyse large text files and easily generate and visualize the word cloud.
+
 ## What does it offer?
 The two main features offered by NLP are being used in this platform:
 - Sentimental Analysis - It classifies the specific text into three main sentiments using "SentimentIntensityAnalyzer" from "vaderSentiment". The three categories of sentiments are namely positive, neutral and negative.
